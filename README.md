@@ -1,5 +1,6 @@
 # Guidelines for Architecting Android Apps: A Mixed-Method Empirical Study
-This repository is the companion for the study _"Guidelines for Architecting Android Apps: A mixed-Method Empirical Study"_
+This repository is the companion for the study: 
+> R. Verdecchia, I. Malavolta, P. Lago. _"Guidelines for Architecting Android Apps: A mixed-Method Empirical Study"_. *Proceedings of ICSA’19: 16th International Conference on Software Architecture, Hamburg, Germany, 25 March - 29 March, 2019 (ICSA’18)*, 10 pages.
 
 It contains all the material required for replicating our study, including: (i) the research protocol followed, (ii) the entirety of the search and selection execution data, (iii) the raw data extracted from the data points, and (iv) the documentation of data analysis processes accompanied by the relative results.
 
